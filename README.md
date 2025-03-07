@@ -1,12 +1,4 @@
 <div align="center">
-
-
-
-
-https://github.com/user-attachments/assets/27c2212e-a91d-41e1-9d4a-3fbaf0f9f5a3
-
-
-
   <br />
 </div>
 <br />
@@ -110,8 +102,8 @@ The AI algorithms analyze user preferences and travel history to suggest destina
 <div>
   ## 📧 Contact<br/>
 
-For any inquiries, please reach out to [eng.alzahraa.meky@gmail.com](eng.alzahraa.meky@gmail.com).<br/>
-or contact via WhatsApp at +96899495057.
+For any inquiries, please reach out to [90prashantpathak@gmail.com]<br/>
+or contact via WhatsApp at +91 9956552500.
 
 ---
 
